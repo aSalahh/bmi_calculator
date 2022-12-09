@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+The Body Mass Index (BMI) Calculator can be used to calculate BMI value and corresponding weight status while taking age into consideration.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <p align="center">
+     <img width="450" height="450" src="https://user-images.githubusercontent.com/59257905/206651190-b2db6344-6b72-4246-a40e-3f1e0ac2489f.jpeg">   
+    <img width="450" height="450" src="https://user-images.githubusercontent.com/59257905/206651200-2b9135f5-dfd4-4723-9ea0-1065680d79a6.jpeg">   
+  </p>
